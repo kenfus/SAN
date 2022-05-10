@@ -1,0 +1,19 @@
+networkx
+seaborn
+matplotlib
+pandas
+python-louvain
+numpy
+scikit-learn
+mlxtend
+texttable
+statsmodels
+scipy
+psutil
+tensorflow #or tensorflow-gpu
+gensim
+joblib
+fastdtw
+tqdm
+python-Levenshtein
+texttable

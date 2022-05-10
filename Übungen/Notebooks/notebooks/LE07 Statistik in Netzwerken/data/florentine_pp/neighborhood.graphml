@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="int"/>
+<key id="d0" for="graph" attr.name="name" attr.type="string"/>
+<graph edgedefault="undirected"><data key="d0">neighborhood</data>
+<node id="Acciaiuoli"/>
+<node id="Medici"/>
+<node id="Castellani"/>
+<node id="Peruzzi"/>
+<node id="Strozzi"/>
+<node id="Barbadori"/>
+<node id="Ridolfi"/>
+<node id="Tornabuoni"/>
+<node id="Albizzi"/>
+<node id="Salviati"/>
+<node id="Pazzi"/>
+<node id="Bischeri"/>
+<node id="Guadagni"/>
+<node id="Ginori"/>
+<node id="Lamberteschi"/>
+<edge source="Medici" target="Ginori">
+  <data key="d1">1</data>
+</edge>
+<edge source="Castellani" target="Lamberteschi">
+  <data key="d1">1</data>
+</edge>
+<edge source="Albizzi" target="Guadagni">
+  <data key="d1">1</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,11 @@
+tensorflow #or tensorflow-gpu
+gensim
+networkx
+joblib
+fastdtw
+tqdm
+numpy
+scikit-learn
+pandas
+matplotlib
+python-Levenshtein
