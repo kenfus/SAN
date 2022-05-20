@@ -1,0 +1,4 @@
+pandas
+networkx
+seaborn
+numpy
