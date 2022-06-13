@@ -2,3 +2,4 @@ pandas
 networkx
 seaborn
 numpy
+statsmodels
